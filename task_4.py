@@ -47,3 +47,4 @@ print("Зарплата:", employ_salary.salary())
 EmployeeSalary.set_hourly_payment(500)
 print("Новая зарплата):", employ_salary.salary())
 
+#случайно влил сразу оба задания в комите для 3-го
